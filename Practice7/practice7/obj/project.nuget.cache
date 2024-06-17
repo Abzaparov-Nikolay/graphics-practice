@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcFtPsByrCL7Qd/oZ1zXVc2YokBxMqjgoVJngdIGLUZEfK6LIOFS1wsvEGC9m6NUD0uB3kft3K5hpha9oPXg7w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Новая папка\\Practice7\\practice7\\Practice7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk\\4.7.5\\opentk.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.compute\\4.7.5\\opentk.compute.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.core\\4.7.5\\opentk.core.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.graphics\\4.7.5\\opentk.graphics.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.input\\4.7.5\\opentk.input.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.mathematics\\4.7.5\\opentk.mathematics.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.openal\\4.7.5\\opentk.openal.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.redist.glfw\\3.3.8.30\\opentk.redist.glfw.3.3.8.30.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.windowing.common\\4.7.5\\opentk.windowing.common.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.windowing.desktop\\4.7.5\\opentk.windowing.desktop.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.5\\opentk.windowing.graphicslibraryframework.4.7.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\stbimagesharp\\2.27.13\\stbimagesharp.2.27.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
